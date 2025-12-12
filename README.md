@@ -15,7 +15,7 @@ The **goal** of this project is to successfully configure a series of increasing
 The project utilizes a custom or simulated training interface, which is the primary tool for solving the challenges.
 
 To start the training interface:
-* Download the file attached to the project’s page): **net_practice.1.7**.
+* Download the file attached to the project’s page: **net_practice.1.7**.
 * Extract the files in whatever folder you want.
 * In this folder, run the index.html file.
 * This interface should open in your web browser.
